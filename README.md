@@ -15,3 +15,7 @@ A 3D Minecraft-like game built with the Ursina Engine.
 - Install dependencies with:
   ```bash
   pip install -r requirements.txt
+
+![image](https://github.com/user-attachments/assets/33df9406-50ed-43c0-b671-f0d971037a38)
+
+![image](https://github.com/user-attachments/assets/2dc6306a-58b7-43ab-ac41-5e8bc34f32a6)
